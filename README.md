@@ -32,6 +32,9 @@ and the bar chart has top 10 sample_values, values, otu_ids as labels and three 
 # Summary
 All the requirements of the project have been stored in github pages for view with customized styling on the dashboard.
 
+![git-hub](https://github.com/MonaElahi/Plotly_JS/blob/2fdcc0af0232c87749da0debecc4a86ea3dd7c27/Customization.PNG)
+![git-hub](https://github.com/MonaElahi/Plotly_JS/blob/2fdcc0af0232c87749da0debecc4a86ea3dd7c27/Images/Bubble-plot.PNG)
+
 
 
 
