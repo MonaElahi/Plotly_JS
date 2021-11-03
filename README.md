@@ -29,6 +29,11 @@ and the bar chart has top 10 sample_values, values, otu_ids as labels and three 
 ![git-hub](https://github.com/MonaElahi/Plotly_JS/blob/ca563dec85bc6136ad483d724cc1c9f13607a160/Images/Bubble-plot.PNG)
 ![git-hub](https://github.com/MonaElahi/Plotly_JS/blob/ca563dec85bc6136ad483d724cc1c9f13607a160/Images/Gauge-plot.PNG)
 
+# Summary
+All the requirements of the project have been stored in github pages for view with customized styling on the dashboard.
+
+
+
 
  
 
