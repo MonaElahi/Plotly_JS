@@ -25,6 +25,11 @@ and the bar chart has top 10 sample_values, values, otu_ids as labels and three 
 * Bar Chart: _Top 10 Bacteria Cultures Found_
 * Bubble Chart: _Bacteria Cultures Per Sample_
 * Gauge Chart: _Belly Button Washing Frequency_
+
+![git-hub](https://github.com/MonaElahi/Plotly_JS/blob/ca563dec85bc6136ad483d724cc1c9f13607a160/Images/Bubble-plot.PNG)
+![git-hub](https://github.com/MonaElahi/Plotly_JS/blob/ca563dec85bc6136ad483d724cc1c9f13607a160/Images/Gauge-plot.PNG)
+
+
  
 
 
