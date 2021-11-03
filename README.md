@@ -12,12 +12,12 @@ With the help of completed panel for demographic information, visualize the bact
 
 # Results:
 
-- Belly Button Biodiversty Dashboard
+### Belly Button Biodiversty Dashboard
 
 When the dashboard is first opened in a browser, ID 940’s data displays in the dashboard, 
 and the bar chart has top 10 sample_values, values, otu_ids as labels and three charts.
 
-- Dashboard Charts
+### Dashboard Charts
 
 * Bar Chart: _Top 10 Bacteria Cultures Found_
 * Bubble Chart: _Bacteria Cultures Per Sample_
