@@ -17,6 +17,9 @@ With the help of completed panel for demographic information, visualize the bact
 When the dashboard is first opened in a browser, ID 940’s data displays in the dashboard, 
 and the bar chart has top 10 sample_values, values, otu_ids as labels and three charts.
 
+![git-hub](https://github.com/MonaElahi/Plotly_JS/blob/a740f15aed303350dd0d6655f20bcda62c525654/Images/DP-Menu-Demographic-table.PNG)
+![git-hub](https://github.com/MonaElahi/Plotly_JS/blob/a740f15aed303350dd0d6655f20bcda62c525654/Images/Top10-Bacteria-Cultures.PNG)
+
 ### Dashboard Charts
 
 * Bar Chart: _Top 10 Bacteria Cultures Found_
